@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dedypry1/dedypry1.github.io.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/dedypry1/dedypry1.github.io.git/static/js/main.841ec6fa.chunk.js",
+    "main.js.map": "/dedypry1/dedypry1.github.io.git/static/js/main.841ec6fa.chunk.js.map",
+    "runtime-main.js": "/dedypry1/dedypry1.github.io.git/static/js/runtime-main.107ed89b.js",
+    "runtime-main.js.map": "/dedypry1/dedypry1.github.io.git/static/js/runtime-main.107ed89b.js.map",
+    "static/js/2.76b57dd1.chunk.js": "/dedypry1/dedypry1.github.io.git/static/js/2.76b57dd1.chunk.js",
+    "static/js/2.76b57dd1.chunk.js.map": "/dedypry1/dedypry1.github.io.git/static/js/2.76b57dd1.chunk.js.map",
+    "index.html": "/dedypry1/dedypry1.github.io.git/index.html",
+    "precache-manifest.c53f397edfdf65e3bbf046e5972bd9b8.js": "/dedypry1/dedypry1.github.io.git/precache-manifest.c53f397edfdf65e3bbf046e5972bd9b8.js",
+    "service-worker.js": "/dedypry1/dedypry1.github.io.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/dedypry1/dedypry1.github.io.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.76b57dd1.chunk.js.LICENSE": "/dedypry1/dedypry1.github.io.git/static/js/2.76b57dd1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/dedypry1/dedypry1.github.io.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.107ed89b.js",
+    "static/js/2.76b57dd1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.841ec6fa.chunk.js"
+  ]
+}
